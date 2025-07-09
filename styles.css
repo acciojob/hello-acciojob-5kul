@@ -1,12 +1,12 @@
+.accio#job {
+      width: 150px;
+      height: 150px;
+      background-color: #000000;
+    }
 
-/* Your CSS Code here. */
-.class#job{
-	width:150px;
-	height:150px;
-	background-color:#000000;
-}
-.p{
-	color:#ffffff;
-	margin-left:32px;
-	padding:10px;
-}
+    /* Styling the paragraph inside main */
+    .hello-accio {
+      color: #ffffff;
+      margin-left: 32px;
+      padding: 10px;
+    }
